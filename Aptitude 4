@@ -1,0 +1,24 @@
+ Q: Find out all possible values of a & b for which the ratio of a^3+b^3 to a^3-b^3 is 1:1 a,b are real numbers.
+Ans:
+Let's write the given ratio as an equation:
+(a^3 + b^3) / (a^3 - b^3) = 1/1
+
+Cross-multiplying, we get:
+a^3 + b^3 = a^3 - b^3
+
+Subtracting a^3 from both sides gives:
+b^3 = -b^3
+
+Dividing both sides by -1 gives:
+b^3 = 0
+
+This implies that b = 0.
+Now, substituting b = 0 into the original equation, we get:
+(a^3 + 0) / (a^3 - 0) = 1/1
+a^3 / a^3 = 1/1
+1 = 1
+This is true for any non-zero value of a.
+
+So, the possible values of a and b are:
+a ≠ 0, b = 0
+In other words, a can be any non-zero real number, and b must be 0.
