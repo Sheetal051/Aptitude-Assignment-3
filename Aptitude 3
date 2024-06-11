@@ -1,0 +1,17 @@
+Q: Find possible coordinates of (x,y) such that point (1,1), (2,2) & (x,y) are collinear?
+Ans:
+Since the points (1,1), (2,2), and (x,y) are collinear, the slope of the line passing through (1,1) and (2,2) must be equal to the slope of the line passing through (1,1) and (x,y).
+The slope of the line passing through (1,1) and (2,2) is:
+m = (2-1)/(2-1) = 1/1 = 1
+
+The slope of the line passing through (1,1) and (x,y) is:
+m = (y-1)/(x-1)
+
+Since the slopes are equal, we can set up the equation:
+(y-1)/(x-1) = 1
+
+Cross-multiplying, we get:
+y - 1 = x - 1
+y = x
+
+So, the possible coordinates of (x,y) are (3,3), (4,4), (5,5), and so on. In general, any point of the form (k,k) will be collinear with (1,1) and (2,2).
