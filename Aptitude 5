@@ -1,0 +1,11 @@
+Q: The triangle area formed by the lines y=x, y-axis and y=3 line will be?
+Ans:
+The area of the triangle formed by the lines y=x, y-axis, and y=3 can be found by identifying the points of intersection between these lines.
+The line y=x intersects the y-axis at the point (0,0). The line y=x intersects the line y=3 at the point (3,3).
+
+The area of the triangle can be calculated using the formula:
+Area = (base × height) / 2
+In this case, the base of the triangle is 3 units (from x=0 to x=3), and the height is 3 units (from y=0 to y=3).
+Area = (3 × 3) / 2 Area = 9 / 2 Area = 4.5 square units
+
+So, the area of the triangle formed by the lines y=x, y-axis, and y=3 is 4.5 square units.
