@@ -1,0 +1,22 @@
+Q: Write two quadratic equations such that the sum of roots equals twice the product of roots?
+Ans:
+Let the two quadratic equations be:
+x^2 + ax + b = 0 ... (1) x^2 + cx + d = 0 ... (2)
+
+Let the roots of equation (1) be α and β, and the roots of equation (2) be γ and δ.
+
+The sum of roots of equation (1) is α + β = -a, and the product of roots is αβ = b.
+The sum of roots of equation (2) is γ + δ = -c, and the product of roots is γδ = d.
+
+According to the problem, the sum of roots equals twice the product of roots, so we can write:
+α + β = 2αβ ... (3) γ + δ = 2γδ ... (4)
+Substituting the values of α + β and αβ from equation (1), and γ + δ and γδ from equation (2), we get:
+-a = 2b ... (5) -c = 2d ... (6)
+
+Now, we can choose values for a, b, c, and d that satisfy equations (5) and (6). For example:
+a = -2, b = 1 c = -4, d = 2
+
+So, the two quadratic equations are:
+x^2 - 2x + 1 = 0 x^2 - 4x + 2 = 0
+
+we can verify that the sum of roots of each equation equals twice the product of roots.
